@@ -1,0 +1,30 @@
+img{
+    width: 100%;    
+}
+
+div{
+    position: fixed;
+    top: 70px;
+    left:70px;
+    background:rgba(0,0,0,0.7);
+    color:white;
+    max-width: 600px;
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+button{
+    background-color: #DB3030;
+    color: white;
+    border: none;
+    height:35px;
+    width:120px;
+}
+
+button:hover{
+    cursor: pointer;
+}
